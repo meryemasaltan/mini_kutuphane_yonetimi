@@ -1,1 +1,7 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+# Mini Kütüphane Yönetimi
+Dart ile yazdıgım temel bir konsol uygulamasıdır.
+Mevcut Özellikler:
+* Tüm kitapları listeleme
+* Müsait kitapları listeleme
+* Kitap arama
+* Çıkış yapma
